@@ -4,7 +4,7 @@ resources:
     type: gitRepo
     integration: "drship_github"
     versionTemplate:
-      sourceName: "devopsrecipes/cd_k8s_kubectl"
+      sourceName: "devops-recipes/cd_k8s_kubectl"
       branch: master
 
 # kubernetes CLI Config
